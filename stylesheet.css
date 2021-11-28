@@ -1,0 +1,17 @@
+.question{
+    font-size: x-large;
+}
+.graph-button{
+    margin-left: -196px;
+}
+.right{
+    margin-right: 315px;
+}
+.left{
+    margin-left: 200px;
+}
+.footerContainer{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
