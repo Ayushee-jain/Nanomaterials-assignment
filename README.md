@@ -6,3 +6,6 @@ To deduce the total number of atoms and surface atoms for the different shells o
 **Contributors**\
 Ayushi Jain(1801cb07)\
 Srija Karmakar(1801cb25)
+
+**Website link**\
+https://ayushee-jain.github.io/Nanomaterials-assignment/
